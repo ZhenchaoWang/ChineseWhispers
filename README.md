@@ -1,1 +1,1 @@
-# ChineseWhispers
+# Chinese Whispers Clustering Algorithm
